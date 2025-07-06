@@ -130,3 +130,7 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 Toplam Backlog: 360 Puan
 Proje sürecimiz 3 Sprint'e ayrılmıştır. Bu nedenle ilk Sprint'e en az 100 puan ile başlanması uygun görülmüştür.
 
+![WhatsApp Görsel 2025-07-06 saat 13 53 10_14aedfa9](https://github.com/user-attachments/assets/6a705c21-cb73-4279-aa7a-297d04d675fc)
+
+![WhatsApp Görsel 2025-07-06 saat 13 53 27_76827289](https://github.com/user-attachments/assets/e2e160ee-580c-4015-8853-50e178a2d5ba)
+
