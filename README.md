@@ -8,8 +8,6 @@
 
 ## 🩺 Ürün Adı: Diyabet Dostu
 
----
-
 📌 **Ürün Açıklaması:**  
 **Diyabet Dostu**, diyabet riski taşıyan veya diyabetle yaşayan bireylerin günlük yaşamlarında daha sağlıklı tercihler yapmalarına yardımcı olan, belirtilere dayalı kişisel öneriler sunan bir web platformudur.
 
