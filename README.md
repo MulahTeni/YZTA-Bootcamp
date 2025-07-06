@@ -2,8 +2,9 @@
 
 - **Şevval Nesibe Arslan**: Scrum Master
 - **Melih Tuna İpek**: Developer  
-- **Emirhan Arslan**: Product Owner 
+- **Emirhan Arslan**: Product Owner
 
+--- 
 
 🩺 **Ürün Adı: Diyabet Dostu**
 
