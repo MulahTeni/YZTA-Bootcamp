@@ -121,7 +121,12 @@ Enter tuşu ile mesaj gönderimi desteklenmektedir.
 
 ➡️ [AI Team 123 Miro Backlog Board](https://miro.com/app/board/uXjVIhfZIGA=/?share_link_id=374145866072)  
 
+---
 
+## 🚀 Sprint 1
+🎯 Sprint Hedefi
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-
+Toplam Backlog: 360 Puan
+Proje sürecimiz 3 Sprint'e ayrılmıştır. Bu nedenle ilk Sprint'e en az 100 puan ile başlanması uygun görülmüştür.
 
