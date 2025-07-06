@@ -147,5 +147,8 @@ Sprint 1 boyunca planlanan görevlerin yer aldığı backlog tablosunun ekran g�
 ## ✅ Daily Scrum Örneği
 Sprint 1 süresince yapılan yazılı günlük takım değerlendirmesi örneği.
 
+![WhatsApp Görsel 2025-07-06 saat 19 56 41_d8344b06](https://github.com/user-attachments/assets/fbff8c11-fea2-4743-b753-5d1725652056)
+
+
 ![WhatsApp Görsel 2025-07-06 saat 13 20 31_2f64832a](https://github.com/user-attachments/assets/ec681503-d6f0-4dfe-ad84-f08903d42dbb)
 
