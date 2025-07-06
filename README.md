@@ -79,4 +79,15 @@ Web üzerinden erişilebilmesi sayesinde hem mobil hem masaüstü cihazlarda kol
 - Kullanıcılar arası destek topluluğu / sosyal forum  
 - Sağlık kuruluşlarıyla iş birlikleri
 
+---
+
+## 🔄 Takım Backlog ve Süreç Yönetimi
+
+📋 Miro üzerinden güncel proje backlog ve görev panomuza aşağıdan ulaşabilirsiniz:
+
+➡️ [AI Team 123 Miro Backlog Board](https://miro.com/app/board/uXjVIhfZIGA=/?share_link_id=374145866072)  
+
+
+
+
 
