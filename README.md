@@ -6,7 +6,7 @@
 
 --- 
 
-🩺 ## **Ürün Adı: Diyabet Dostu**
+## 🩺 Ürün Adı: Diyabet Dostu
 
 ---
 
