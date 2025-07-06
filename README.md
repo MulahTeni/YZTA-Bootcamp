@@ -142,6 +142,7 @@ Kullanıcının mesajını alıp Flask API’ye gönderen JavaScript kodunun ter
 ## 📋 Sprint Backlog (Miro)
 Sprint 1 boyunca planlanan görevlerin yer aldığı backlog tablosunun ekran görüntüsü.
 
+![Ekran görüntüsü 2025-07-06 192657](https://github.com/user-attachments/assets/0e8005d8-2f8a-4f88-bdba-32b60d213f3d)
 
 ## ✅ Daily Scrum Örneği (WhatsApp)
 Sprint 1 süresince yapılan yazılı günlük takım değerlendirmesi örneği.
