@@ -152,3 +152,10 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 
 ![WhatsApp Görsel 2025-07-06 saat 13 20 31_2f64832a](https://github.com/user-attachments/assets/ec681503-d6f0-4dfe-ad84-f08903d42dbb)
 
+
+📌 Sprint Review – Sprint 1
+✅ 100 puanlık planlanan görev başarıyla tamamlandı.
+🧩 Ürün açıklaması, özellik listesi, hedef kitle ve fikirsel yapı netleştirildi.
+💬 Takım üyeleri görev paylaşımı yaptı, ilerleme süreci belirlendi.
+📁 Backlog güncellendi, bir sonraki sprint için hazırlıklar başladı.
+
