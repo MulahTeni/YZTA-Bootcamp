@@ -130,7 +130,18 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 Toplam Backlog: 360 Puan
 Proje sürecimiz 3 Sprint'e ayrılmıştır. Bu nedenle ilk Sprint'e en az 100 puan ile başlanması uygun görülmüştür.
 
+## 🧩 Kod Örneği: JS ile API Entegrasyonu
+Kullanıcının mesajını alıp Flask API’ye gönderen JavaScript kodunun terminal çıktısı veya editör görünümü.
+
 ![WhatsApp Görsel 2025-07-06 saat 13 53 10_14aedfa9](https://github.com/user-attachments/assets/6a705c21-cb73-4279-aa7a-297d04d675fc)
 
 ![WhatsApp Görsel 2025-07-06 saat 13 53 27_76827289](https://github.com/user-attachments/assets/e2e160ee-580c-4015-8853-50e178a2d5ba)
 
+![WhatsApp Görsel 2025-07-06 saat 13 53 52_0781fe13](https://github.com/user-attachments/assets/7d3ffeb4-6792-4884-b2e4-b26b5563249c)
+
+## 📋 Sprint Backlog (Miro)
+Sprint 1 boyunca planlanan görevlerin yer aldığı backlog tablosunun ekran görüntüsü.
+
+
+## ✅ Daily Scrum Örneği (WhatsApp)
+Sprint 1 süresince yapılan yazılı günlük takım değerlendirmesi örneği.
