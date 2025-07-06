@@ -1,4 +1,4 @@
-## 👥 Team Members
+## 👥 Takım Üyeleri
 
 - **Şevval Nesibe Arslan**: Scrum Master
 - **Melih Tuna İpek**: Developer  
