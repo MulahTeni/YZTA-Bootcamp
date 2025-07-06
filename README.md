@@ -60,7 +60,7 @@ Web üzerinden erişilebilmesi sayesinde hem mobil hem masaüstü cihazlarda kol
 
 ---
 
-🎯 **Hedef Kitle:**
+## 🎯 **Hedef Kitle:**
 
 - Tip 2 diyabet riski taşıyan bireyler  
 - Diyabet geçmişi olan bireylerin aile üyeleri  
@@ -71,13 +71,47 @@ Web üzerinden erişilebilmesi sayesinde hem mobil hem masaüstü cihazlarda kol
 
 ---
 
-💡 **Gelecek Geliştirmeler:**
+## 💡 **Gelecek Geliştirmeler:**
 
 - Cihaz bağlantılı glikozmetre desteği (Bluetooth entegresiyle)  
 - WhatsApp üzerinden günlük sağlık raporu gönderimi  
 - Diyetisyen ve doktor destekli içerikler  
 - Kullanıcılar arası destek topluluğu / sosyal forum  
 - Sağlık kuruluşlarıyla iş birlikleri
+
+---
+
+## 🧩 Teknik Bileşenler
+🖥 HTML & CSS
+Basit ve koyu temalı bir kullanıcı arayüzü tasarlanmıştır.
+
+Ana bileşenler:
+
+Sohbet alanı (#chat)
+
+Metin giriş kutusu ve “Gönder” butonu
+
+Mesaj renkleri:
+
+Kullanıcı mesajları → yeşil
+
+Bot yanıtları → mavi
+
+🧠 JavaScript
+Kullanıcıdan gelen mesajı fetch() fonksiyonu ile http://localhost:8000/predict adresine JSON formatında gönderir.
+
+API'den gelen bot cevabı sohbet alanına eklenir.
+
+Enter tuşu ile mesaj gönderimi desteklenmektedir.
+
+🔄 Çalışma Akışı
+👤 Kullanıcı metin kutusuna bir mesaj yazar.
+
+📤 Mesaj, JSON formatında sunucuya (backend) gönderilir.
+
+🧠 Backend (yapay zekâ) bu mesaja yanıt üretir.
+
+📥 Gelen yanıt, “Bot:” etiketiyle ekranda gösterilir.
 
 ---
 
