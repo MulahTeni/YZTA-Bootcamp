@@ -123,7 +123,7 @@ Enter tuşu ile mesaj gönderimi desteklenmektedir.
 
 ---
 
-## 🚀 Sprint 1
+# 🚀 Sprint 1
 🎯 Sprint Hedefi
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -162,4 +162,9 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 💬 Takım üyeleri görev paylaşımı yaptı, ilerleme süreci belirlendi.
 
 📁 Backlog güncellendi, bir sonraki sprint için hazırlıklar başladı.
+
+# Sprint 2 
+- Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
