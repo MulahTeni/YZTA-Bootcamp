@@ -172,7 +172,10 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 
 <img width="967" height="679" alt="Ekran görüntüsü 2025-07-20 225258" src="https://github.com/user-attachments/assets/66fec61e-3365-41a6-8e01-52bfcc19dd3a" />
 
-## 🧪 Ürün Durumu: Kod Çıktıları
+## 🧪 Ürün Durumu – Kod Çıktıları
+Sprint sürecinde geliştirilen veri hazırlama ve analiz aşamalarına ait kodlar tamamlanmıştır. Aşağıda sprint boyunca yapılan geliştirmelere dair ekran görüntüleri ve tüm çalışmanın yer aldığı bağlantı bulunmaktadır:
+
+📸 Kod Çıktısı Görselleri:
 
 ![WhatsApp Görsel 2025-07-20 saat 21 52 39_84c6c1a1](https://github.com/user-attachments/assets/4d536cbe-cad7-4204-9c9e-e62e22a2ee19)
 
@@ -182,19 +185,18 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 
 ![WhatsApp Görsel 2025-07-20 saat 21 52 42_d2d492ec](https://github.com/user-attachments/assets/9b093389-f834-4251-a857-ba57b14695a3)
 
+🔗 Tüm Kodlara Erişim:
+https://www.kaggle.com/code/evvalarslan/bootcamp 
 
+## 📌 Sprint Review – Sprint 2
 
+✅ 120 puanlık planlanan görev başarıyla tamamlandı.
 
+🧪 Glukoz ve fizyolojik verilere dayalı medikal risk analizi için veri temizleme, sınıflandırma ve analiz adımları gerçekleştirildi.
 
+📊 Hipoglisemi, normal ve hiperglisemi sınıfları oluşturularak risk sınıflandırması yapıldı. Zamana bağlı anomali analizleri tamamlandı.
 
----
+📁 Veri seti makine öğrenmesi için hazırlandı; eğitim-test ayrımı ve sınıf dengesi sağlandı.
 
-## 🔄 Takım Backlog ve Süreç Yönetimi
-
-📋 Miro üzerinden güncel proje backlog ve görev panomuza aşağıdan ulaşabilirsiniz:
-
-➡️ [AI Team 123 Miro Backlog Board](https://miro.com/app/board/uXjVIhfZIGA=/?share_link_id=374145866072)  
-
----
-
+🎯 Bir sonraki sprintte sınıflandırma modelleri (Lojistik Regresyon, Random Forest, KNN vb.) ile tahmin sürecine geçilecek.
 
