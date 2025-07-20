@@ -192,11 +192,15 @@ https://www.kaggle.com/code/evvalarslan/bootcamp
 
 ✅ 120 puanlık planlanan görev başarıyla tamamlandı.
 
-🧪 Glukoz ve fizyolojik verilere dayalı medikal risk analizi için veri temizleme, sınıflandırma ve analiz adımları gerçekleştirildi.
+🧪 Veri Temizleme ve Hazırlık:
+Eksik ve hatalı veriler temizlenerek güvenilir bir analiz seti oluşturuldu.
 
-📊 Hipoglisemi, normal ve hiperglisemi sınıfları oluşturularak risk sınıflandırması yapıldı. Zamana bağlı anomali analizleri tamamlandı.
+📊 Risk Sınıflandırması:
+Glukoz değerlerine göre bireyler hipoglisemi, normal ve hiperglisemi olarak sınıflandırıldı. Ayrıca, saatlik değişimler analiz edilerek risklerin zamana bağlı dağılımı incelendi.
 
-📁 Veri seti makine öğrenmesi için hazırlandı; eğitim-test ayrımı ve sınıf dengesi sağlandı.
+📁 Modelleme Hazırlığı:
+Veri seti, eğitim ve test olarak ayrıldı. Sınıflar dengeli tutuldu ve makine öğrenmesi modellerine hazır hâle getirildi.
 
-🎯 Bir sonraki sprintte sınıflandırma modelleri (Lojistik Regresyon, Random Forest, KNN vb.) ile tahmin sürecine geçilecek.
+🎯 Sonraki Sprint:
+Lojistik Regresyon, Random Forest ve KNN gibi algoritmalarla sınıflandırma modelleri oluşturulacak. Diğer fizyolojik veriler de modele entegre edilerek çok değişkenli analiz yapılması hedefleniyor.
 
