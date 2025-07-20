@@ -168,3 +168,6 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
+- Sprint board update: Sprint board screenshotları:
+
+<img width="967" height="679" alt="Ekran görüntüsü 2025-07-20 225258" src="https://github.com/user-attachments/assets/66fec61e-3365-41a6-8e01-52bfcc19dd3a" />
