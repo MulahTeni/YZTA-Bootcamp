@@ -200,3 +200,10 @@ https://www.kaggle.com/code/evvalarslan/bootcamp
 
 🎯 Bir sonraki sprintte sınıflandırma modelleri (Lojistik Regresyon, Random Forest, KNN vb.) ile tahmin sürecine geçilecek.
 
+---
+
+📋 Miro üzerinden güncel proje backlog ve görev panomuza aşağıdan ulaşabilirsiniz:
+
+➡️ [AI Team 123 Miro Backlog Board](https://miro.com/app/board/uXjVIhfZIGA=/?share_link_id=374145866072)  
+
+---
