@@ -171,3 +171,13 @@ Sprint 1 süresince yapılan yazılı-sesli günlük takım değerlendirmesi ör
 - Sprint board update: Sprint board screenshotları:
 
 <img width="967" height="679" alt="Ekran görüntüsü 2025-07-20 225258" src="https://github.com/user-attachments/assets/66fec61e-3365-41a6-8e01-52bfcc19dd3a" />
+
+## 🧪 Ürün Durumu: Ekran Görüntüleri ve Kod Çıktıları
+
+![WhatsApp Görsel 2025-07-20 saat 21 52 39_84c6c1a1](https://github.com/user-attachments/assets/4d536cbe-cad7-4204-9c9e-e62e22a2ee19)
+
+![WhatsApp Görsel 2025-07-20 saat 21 52 42_632e5a95](https://github.com/user-attachments/assets/bd70ad55-ddf2-415d-9618-096cd5a5155f)
+
+![WhatsApp Görsel 2025-07-20 saat 21 52 42_dd809b70](https://github.com/user-attachments/assets/1a508026-596f-4a8f-838a-4a9d3ae20243)
+
+![WhatsApp Görsel 2025-07-20 saat 21 52 42_d2d492ec](https://github.com/user-attachments/assets/9b093389-f834-4251-a857-ba57b14695a3)
