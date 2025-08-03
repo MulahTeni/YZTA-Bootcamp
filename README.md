@@ -204,3 +204,25 @@ Veri seti, eğitim ve test olarak ayrıldı. Sınıflar dengeli tutuldu ve makin
 🎯 Sonraki Sprint:
 Lojistik Regresyon, Random Forest ve KNN gibi algoritmalarla sınıflandırma modelleri oluşturulacak. Diğer fizyolojik veriler de modele entegre edilerek çok değişkenli analiz yapılması hedefleniyor.
 
+# 📌 Sprint 3 – Planlandı, Ancak Uygulanamadı
+🎯 Sprint Hedefi (Planlanan)
+Sprint 3’te sınıflandırma algoritmalarının (Lojistik Regresyon, Random Forest, KNN) eğitilmesi, performans karşılaştırmalarının yapılması ve geliştirilen modelin web platformuna entegre edilmesi hedeflenmiştir. Ayrıca fizyolojik verilerle çok değişkenli analizler yapılması da planlamaya dahil edilmiştir.
+
+🛠️ Planlanan Çalışmalar
+
+Sınıflandırma modellerinin uygulanması ve değerlendirilmesi
+
+En iyi modelin seçilerek öneri sistemine entegre edilmesi
+
+Frontend–backend bağlantısının tamamlanması
+
+Kullanıcıya gerçek zamanlı öneri sunumu
+
+🚧 Durum: Uygulanamadı
+Sprint 3 için tüm görevler detaylı şekilde planlanmış olsa da, verilen sürede bu sprinti uygulamaya geçirecek zaman yönetimi sağlanamamıştır. Takım içi öncelikler ve sınırlı süre içinde yapılan yoğun çalışmalar nedeniyle, bu sprint yalnızca planlama aşamasında kalmıştır.
+
+✅ Genel Değerlendirme
+İlk iki sprintte fikirsel altyapı başarıyla oluşturulmuş, temel analiz adımları tamamlanmış ve ürünün teknik temeli atılmıştır. Sprint 3 ile ürünün daha bütüncül bir hale gelmesi hedeflenmiş olsa da, proje bu haliyle sonlandırılmıştır.
+
+🧭 Sonuç
+Proje 3 sprint olarak planlanmış; ancak 3. sprint, zaman yönetimi ve uygulama sürecindeki yoğunluklar nedeniyle tamamlanamamıştır. Geliştirme süreci durdurulmuş ve proje mevcut durumu ile sonlandırılmıştır.
