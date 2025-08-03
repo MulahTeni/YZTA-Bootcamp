@@ -204,7 +204,7 @@ Veri seti, eğitim ve test olarak ayrıldı. Sınıflar dengeli tutuldu ve makin
 🎯 Sonraki Sprint:
 Lojistik Regresyon, Random Forest ve KNN gibi algoritmalarla sınıflandırma modelleri oluşturulacak. Diğer fizyolojik veriler de modele entegre edilerek çok değişkenli analiz yapılması hedefleniyor.
 
-# 📌 Sprint 3 – Planlandı, Ancak Uygulanamadı
+# Sprint 3 – Planlandı, Ancak Uygulanamadı
 🎯 Sprint Hedefi (Planlanan)
 Sprint 3’te sınıflandırma algoritmalarının (Lojistik Regresyon, Random Forest, KNN) eğitilmesi, performans karşılaştırmalarının yapılması ve geliştirilen modelin web platformuna entegre edilmesi hedeflenmiştir. Ayrıca fizyolojik verilerle çok değişkenli analizler yapılması da planlamaya dahil edilmiştir.
 
